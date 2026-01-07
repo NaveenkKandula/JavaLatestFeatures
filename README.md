@@ -4,3 +4,5 @@
 1. We need multiple sorting strategies for a class.
 2. We want to keep sorting logic separate from the class definition.
 
+More features are coming soon
+
